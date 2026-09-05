@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tipos de tabuleiro -->
+    <string-array name="tabuleiros">
+        <item>Xadrez</item>
+        <item>Madeira e Bege</item>
+        <item>Neon Hacker</item>
+        <item>Azul e Bege</item>
+        <item>Verde Escuro</item>
+    </string-array>
+
+    <!-- Cores para peça – MESMAS PARA JOGADOR 1 E 2 -->
+    <string-array name="cores_peca1">
+        <item>Vermelho</item>
+        <item>Azul</item>
+        <item>Verde</item>
+        <item>Amarelo</item>
+        <item>Branco</item>
+        <item>Madeira Clara</item>
+        <item>Madeira Escura</item>
+        <item>Preto</item>
+    </string-array>
+
+    <string-array name="cores_peca2">
+        <item>Vermelho</item>
+        <item>Azul</item>
+        <item>Verde</item>
+        <item>Amarelo</item>
+        <item>Branco</item>
+        <item>Madeira Clara</item>
+        <item>Madeira Escura</item>
+        <item>Preto</item>
+    </string-array>
+</resources>
